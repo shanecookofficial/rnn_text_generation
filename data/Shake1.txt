@@ -1,8 +1,3 @@
-King Lear
-
-ACT 1
-
-Scene 1
 Enter Kent, Gloucester, and Edmund.
  
 KENT  I thought the King had more affected the Duke
@@ -404,8 +399,6 @@ but offend us.
 REGAN  We shall further think of it.
 GONERIL  We must do something, and i’ th’ heat.
 They exit.
- 
-Scene 2
 Enter Edmund, the Bastard.
  
 EDMUND
@@ -614,7 +607,7 @@ Let me, if not by birth, have lands by wit.
 All with me’s meet that I can fashion fit.
 He exits.
  
-Scene 3
+
 Enter Goneril and Oswald, her Steward.
  
 GONERIL  Did my father strike my gentleman for chiding
@@ -651,7 +644,7 @@ That I may speak. I’ll write straight to my sister
 To hold my very course. Prepare for dinner.
 They exit in different directions.
  
-Scene 4
+
 Enter Kent in disguise.
  
 KENT
@@ -1087,7 +1080,7 @@ GONERIL  Nay, then—
 ALBANY  Well, well, th’ event.
 They exit.
  
-Scene 5
+
 Enter Lear, Kent in disguise, Gentleman, and Fool.
  
 LEAR, to Kent  Go you before to Gloucester with these
@@ -1156,9 +1149,7 @@ They exit.
 
  
  
-ACT 2
- 
-Scene 1
+
 Enter Edmund, the Bastard and Curan, severally.
  
 EDMUND  Save thee, Curan.
@@ -1348,7 +1339,7 @@ GLOUCESTER  I serve you, madam.
 Your Graces are right welcome.
 Flourish. They exit.
  
-Scene 2
+
 Enter Kent in disguise and Oswald, the Steward,
 severally.
  
@@ -1570,7 +1561,7 @@ Fortune, good night. Smile once more; turn thy
 wheel.
 Sleeps.
  
-Scene 3
+
 Enter Edgar.
  
 EDGAR  I heard myself proclaimed,
@@ -1596,7 +1587,7 @@ Enforce their charity. “Poor Turlygod! Poor Tom!”
 That’s something yet. “Edgar” I nothing am.
 He exits.
  
-Scene 4
+
 Enter Lear, Fool, and Gentleman.
  
 LEAR
@@ -2024,9 +2015,7 @@ They exit.
 
  
  
-ACT 3
- 
-Scene 1
+
 Storm still. Enter Kent in disguise, and a Gentleman,
 severally.
  
@@ -2101,7 +2090,7 @@ That way, I’ll this—he that first lights on him
 Holla the other.
 They exit separately.
  
-Scene 2
+
 Storm still. Enter Lear and Fool.
  
 LEAR
@@ -2219,7 +2208,6 @@ This prophecy Merlin shall make, for I live before
 his time.
 He exits.
  
-Scene 3
 Enter Gloucester and Edmund.
  
 GLOUCESTER  Alack, alack, Edmund, I like not this
@@ -2250,7 +2238,7 @@ That which my father loses—no less than all.
 The younger rises when the old doth fall.
 He exits.
  
-Scene 4
+
 Enter Lear, Kent in disguise, and Fool.
  
 KENT
@@ -2483,7 +2471,6 @@ EDGAR
        	I smell the blood of a British man.”
 They exit.
  
-Scene 5
 Enter Cornwall, and Edmund with a paper.
  
 CORNWALL  I will have my revenge ere I depart his
@@ -2514,7 +2501,6 @@ CORNWALL  I will lay trust upon thee, and thou shalt
 find a dearer father in my love.
 They exit.
  
-Scene 6
 Enter Kent in disguise, and Gloucester.
  
 GLOUCESTER  Here is better than the open air. Take it
@@ -2666,7 +2652,6 @@ What will hap more tonight, safe ’scape the King!
 Lurk, lurk.
 He exits.
  
-Scene 7
 Enter Cornwall, Regan, Goneril, Edmund, the Bastard,
 and Servants.
  
@@ -2850,13 +2835,6 @@ To apply to his bleeding face. Now heaven help him!
 They exit.
  
  
- 
-
- 
- 
-ACT 4
- 
-Scene 1
 Enter Edgar in disguise.
  
 EDGAR
@@ -2970,7 +2948,6 @@ EDGAR  Give me thy arm.
 Poor Tom shall lead thee.
 They exit.
  
-Scene 2
 Enter Goneril and Edmund, the Bastard.
  
 GONERIL
@@ -3117,7 +3094,6 @@ And to revenge thine eyes.—Come hither, friend.
 Tell me what more thou know’st.
 They exit.
  
-Scene 3
 Enter Kent in disguise and a Gentleman.
  
 KENT  Why the King of France is so suddenly gone
@@ -3196,7 +3172,6 @@ Lending me this acquaintance. I pray you, go
 Along with me.
 They exit.
  
-Scene 4
 Enter with Drum and Colors, Cordelia, Doctor,
 Gentlemen, and Soldiers.
  
@@ -3239,7 +3214,6 @@ But love, dear love, and our aged father’s right.
 Soon may I hear and see him.
 They exit.
  
-Scene 5
 Enter Regan and Oswald, the Steward.
  
 REGAN
@@ -3299,7 +3273,6 @@ What party I do follow.
 REGAN  Fare thee well.
 They exit.
  
-Scene 6
 Enter Gloucester and Edgar dressed as a peasant.
  
 GLOUCESTER
@@ -3672,7 +3645,6 @@ Far off methinks I hear the beaten drum.
 Come, father, I’ll bestow you with a friend.
 They exit.
  
-Scene 7
 Enter Cordelia, Kent in disguise, Doctor, and
 Gentleman.
  
@@ -3812,13 +3784,6 @@ Or well, or ill, as this day’s battle’s fought.
 He exits.
  
  
- 
-
- 
- 
-ACT 5
- 
-Scene 1
 Enter, with Drum and Colors, Edmund, Regan,
 Gentlemen, and Soldiers.
  
@@ -3935,7 +3900,6 @@ Shall never see his pardon, for my state
 Stands on me to defend, not to debate.
 He exits.
  
-Scene 2
 Alarum within. Enter, with Drum and Colors, Lear,
 Cordelia, and Soldiers, over the stage, and exit.
 Enter Edgar and Gloucester.
@@ -3964,7 +3928,6 @@ Ripeness is all. Come on.
 GLOUCESTER  And that’s true too.
 They exit.
  
-Scene 3
 Enter in conquest, with Drum and Colors, Edmund;
 Lear and Cordelia as prisoners; Soldiers, Captain.
  
@@ -4465,9 +4428,6 @@ They exit with a dead march.
 
 Coriolanus
 
-ACT 1
-
-Scene 1
 Enter a company of mutinous Citizens with staves,
 clubs, and other weapons.
 
@@ -4841,7 +4801,6 @@ Upon this present action.
 BRUTUS  Let’s along.
 They exit.
 
-Scene 2
 Enter Tullus Aufidius with Senators of Corioles.
 
 FIRST SENATOR
@@ -4895,7 +4854,6 @@ SECOND SENATOR  Farewell.
 ALL  Farewell.
 All exit.
 
-Scene 3
 Enter Volumnia and Virgilia, mother and wife
 to Martius. They set them down on two low stools
 and sew.
@@ -5029,7 +4987,6 @@ wish you much mirth.
 VALERIA  Well, then, farewell.
 Ladies exit.
 
-Scene 4
 Enter Martius, Titus Lartius, with Trumpet, Drum,
 and Colors, with Captains and Soldiers, as before
 the city of Corioles. To them a Messenger.
@@ -5159,7 +5116,6 @@ LARTIUS  O, ’tis Martius!
 Let’s fetch him off or make remain alike.
 They fight, and all enter the city, exiting the stage.
 
-Scene 5
 Enter certain Romans, with spoils.
 
 FIRST ROMAN  This will I carry to Rome.
@@ -5202,7 +5158,6 @@ Call thither all the officers o’ th’ town,
 Where they shall know our mind. Away!
 They exit.
 
-Scene 6
 Enter Cominius as it were in retire, with Soldiers.
 
 COMINIUS
@@ -5332,7 +5287,6 @@ Make good this ostentation, and you shall
 Divide in all with us.
 They exit.
 
-Scene 7
 Titus Lartius, having set a guard upon Corioles, going
 with Drum and Trumpet toward Cominius and Caius
 Martius, enters with a Lieutenant, other Soldiers,
@@ -5350,7 +5304,6 @@ LARTIUS  Hence, and shut your gates upon ’s.
 camp conduct us.
 They exit, the Lieutenant one way, Lartius another.
 
-Scene 8
 Alarum, as in battle.
 Enter Martius and Aufidius at several doors.
 
@@ -5384,7 +5337,6 @@ In your condemnèd seconds.
 Martius fights till they be driven in breathless.
 Aufidius and Martius exit, separately.
 
-Scene 9
 Alarum. A retreat is sounded. Flourish. Enter, at one
 door, Cominius with the Romans; at another door
 Martius, with his arm in a scarf.
@@ -5512,7 +5464,6 @@ The blood upon your visage dries; ’tis time
 It should be looked to. Come.
 A flourish of cornets. They exit.
 
-Scene 10
 Enter Tullus Aufidius bloody, with two or three Soldiers.
 
 AUFIDIUS  The town is ta’en.
@@ -5558,11 +5509,6 @@ They exit, Aufidius through one door,
 Soldiers through another.
 
 
- 
-
-ACT 2
-
-Scene 1
 Enter Menenius with the two Tribunes of the people,
 Sicinius and Brutus.
 
@@ -5903,7 +5849,6 @@ But hearts for the event.
 SICINIUS  Have with you.
 They exit.
 
-Scene 2
 Enter two Officers, to lay cushions, as it were
 in the Capitol.
 
@@ -6122,7 +6067,6 @@ Of our proceedings here. On th’ marketplace
 I know they do attend us.
 They exit.
 
-Scene 3
 Enter seven or eight Citizens.
 
 FIRST CITIZEN  Once, if he do require our voices, we
@@ -6465,11 +6409,6 @@ Which we have goaded onward.
 They exit.
 
 
- 
-
-ACT 3
-
-Scene 1
 Cornets. Enter Coriolanus, Menenius, all the Gentry,
 Cominius, Titus Lartius, and other Senators.
 
@@ -6979,7 +6918,6 @@ Or what is worst will follow.
 FIRST SENATOR  Pray you, let’s to him.
 All exit.
 
-Scene 2
 Enter Coriolanus with Nobles.
 
 CORIOLANUS
@@ -7184,7 +7122,6 @@ MENENIUS  Ay, but mildly.
 CORIOLANUS  Well, mildly be it, then. Mildly.
 They exit.
 
-Scene 3
 Enter Sicinius and Brutus.
 
 BRUTUS
@@ -7399,11 +7336,6 @@ The gods preserve our noble tribunes! Come!
 They exit.
 
 
- 
-
-ACT 4
-
-Scene 1
 Enter Coriolanus, Volumnia, Virgilia, Menenius,
 Cominius, with the young nobility of Rome.
 
@@ -7482,7 +7414,6 @@ CORIOLANUS  Give me thy hand.
 Come.
 They exit.
 
-Scene 2
 Enter the two Tribunes, Sicinius, and Brutus,
 with the Aedile.
 
@@ -7576,7 +7507,7 @@ In anger, Juno-like. Come, come, come.	They exit.
 MENENIUS  Fie, fie, fie!
 He exits.
 
-Scene 3
+
 Enter a Roman (Nicanor) and a Volsce (Adrian).
 
 ROMAN  I know you well, sir, and you know me. Your
@@ -7634,7 +7565,6 @@ cause to be glad of yours.
 ROMAN  Well, let us go together.
 They exit.
 
-Scene 4
 Enter Coriolanus in mean apparel, disguised,
 and muffled.
 
@@ -7680,7 +7610,6 @@ He does fair justice; if he give me way,
 I’ll do his country service.
 He exits.
 
-Scene 5
 Music plays. Enter a Servingman.
 
 FIRST SERVINGMAN  Wine, wine, wine! What service is
@@ -7979,7 +7908,6 @@ within.) They are rising; they are rising.
 FIRST AND SECOND SERVINGMEN  In, in, in, in!
 They exit.
 
-Scene 6
 Enter the two Tribunes. Sicinius and Brutus.
 
 SICINIUS
@@ -8232,7 +8160,6 @@ Would buy this for a lie.
 SICINIUS  Pray, let’s go.
 Tribunes exit.
 
-Scene 7
 Enter Aufidius with his Lieutenant.
 
 AUFIDIUS  Do they still fly to th’ Roman?
@@ -8303,11 +8230,6 @@ Thou art poor’st of all; then shortly art thou mine.
 They exit.
 
 
- 
-
-ACT 5
-
-Scene 1
 Enter Menenius, Cominius, Sicinius, Brutus (the two
 Tribunes), with others.
 
@@ -8409,7 +8331,6 @@ For mercy to his country. Therefore let’s hence
 And with our fair entreaties haste them on.
 They exit.
 
-Scene 2
 Enter Menenius to the Watch, or Guard.
 
 FIRST WATCH  Stay! Whence are you?
@@ -8541,7 +8462,6 @@ SECOND WATCH  The worthy fellow is our general. He’s
 the rock, the oak not to be wind-shaken.
 Watch exit.
 
-Scene 3
 Enter Coriolanus and Aufidius.
 
 CORIOLANUS
@@ -8802,7 +8722,6 @@ In Italy, and her confederate arms,
 Could not have made this peace.
 They exit.
 
-Scene 4
 Enter Menenius and Sicinius.
 
 MENENIUS  See you yond coign o’ th’ Capitol, yond
@@ -8889,7 +8808,6 @@ SECOND MESSENGER  Almost at point to enter.
 SICINIUS  We’ll meet them, and help the joy.
 They exit.
 
-Scene 5
 Enter two Senators, with Ladies (Volumnia, Virgilia,
 Valeria) passing over the stage, with other Lords.
 
@@ -8905,7 +8823,6 @@ ALL  Welcome, ladies, welcome!
 A flourish with drums and trumpets.
 They exit.
 
-Scene 6
 Enter Tullus Aufidius, with Attendants.
 
 AUFIDIUS
@@ -9132,9 +9049,6 @@ A dead march sounded.
 Richard III
  
  
-ACT 1
- 
-Scene 1
 Enter Richard, Duke of Gloucester, alone.
  
 RICHARD
@@ -9338,7 +9252,6 @@ Clarence still breathes; Edward still lives and reigns.
 When they are gone, then must I count my gains.
 He exits.
  
-Scene 2
 Enter the corse of Henry the Sixth on a bier, with
 Halberds to guard it, Lady Anne being the mourner,
 accompanied by Gentlemen.
@@ -9703,7 +9616,6 @@ Shine out, fair sun, till I have bought a glass,
 That I may see my shadow as I pass.
 He exits.
  
-Scene 3
 Enter Queen Elizabeth, the Lord Marquess of Dorset,
 Lord Rivers, and Lord Grey.
  
@@ -10201,7 +10113,6 @@ Go, go, dispatch.
 MURDERERS  We will, my noble lord.
 They exit.
  
-Scene 4
 Enter Clarence and Keeper.
  
 KEEPER
@@ -10574,13 +10485,6 @@ For this will out, and then I must not stay.
 He exits.
  
  
- 
-
- 
- 
-ACT 2
- 
-Scene 1
 Flourish. Enter King Edward, sick, Queen Elizabeth,
 Lord Marquess Dorset, Rivers, Hastings, Buckingham,
 Woodeville, Grey, and Scales.
@@ -10624,7 +10528,8 @@ Marquess.
 DORSET
 This interchange of love, I here protest,
 Upon my part shall be inviolable.
-HASTINGS  And so swear I.                                         	They embrace.
+HASTINGS  And so swear I.                                         	
+They embrace.
 KING EDWARD
 Now, princely Buckingham, seal thou this league
 With thy embracements to my wife’s allies
@@ -10773,7 +10678,6 @@ To comfort Edward with our company?
 BUCKINGHAM  We wait upon your Grace.
 They exit.
  
-Scene 2
 Enter the old Duchess of York with the two
 children of Clarence.
  
@@ -10985,7 +10889,6 @@ I, as a child, will go by thy direction.
 Toward Ludlow then, for we’ll not stay behind.
 They exit.
  
-Scene 3
 Enter one Citizen at one door, and another at the other.
  
 FIRST CITIZEN
@@ -11064,7 +10967,6 @@ THIRD CITIZEN
 And so was I. I’ll bear you company.
 They exit.
  
-Scene 4
 Enter Archbishop, the young Duke of York,
 Queen Elizabeth, and the Duchess of York.
  
@@ -11179,13 +11081,6 @@ Go. I’ll conduct you to the sanctuary.
 They exit.
  
  
- 
-
- 
- 
-ACT 3
- 
-Scene 1
 The trumpets sound. Enter young Prince Edward,
 Richard Duke of Gloucester, Buckingham,
 the Cardinal, Catesby, and others.
@@ -11482,7 +11377,6 @@ Come, let us sup betimes, that afterwards
 We may digest our complots in some form.
 They exit.
  
-Scene 2
 Enter a Messenger to the door of Hastings.
  
 MESSENGER, knocking  My lord, my lord.
@@ -11669,7 +11563,6 @@ Come, will you go?
 HASTINGS  I’ll wait upon your Lordship.
 They exit.
  
-Scene 3
 Enter Sir Richard Ratcliffe, with Halberds, carrying the
 nobles Rivers, Grey, and Vaughan to death at Pomfret.
  
@@ -11711,7 +11604,6 @@ They embrace.
 Farewell until we meet again in heaven.
 They exit.
  
-Scene 4
 Enter Buckingham, Lord Stanley, Earl of Derby,
 Hastings, Bishop of Ely, Norfolk, Ratcliffe, Lovell, with
 others, at a table.
@@ -11872,7 +11764,6 @@ Come, lead me to the block. Bear him my head.
 They smile at me who shortly shall be dead.
 They exit.
  
-Scene 5
 Enter Richard and Buckingham, in rotten armor,
 marvelous ill-favored.
  
@@ -12020,7 +11911,6 @@ And to give order that no manner person
 Have any time recourse unto the Princes.
 He exits.
  
-Scene 6
 Enter a Scrivener.
  
 SCRIVENER
@@ -12040,7 +11930,6 @@ Bad is the world, and all will come to naught
 When such ill dealing must be seen in thought.
 He exits.
  
-Scene 7
 Enter Richard and Buckingham at several doors.
  
 RICHARD
@@ -12358,13 +12247,6 @@ Farewell, my cousin. Farewell, gentle friends.
 They exit.
  
  
- 
-
- 
- 
-ACT 4
- 
-Scene 1
 Enter Queen Elizabeth, with the Duchess of York, and
 the Lord Marquess of Dorset, at one door; Anne,
 Duchess of Gloucester with Clarence’s daughter, at
@@ -12514,8 +12396,7 @@ Rude ragged nurse, old sullen playfellow
 For tender princes, use my babies well.
 So foolish sorrows bids your stones farewell.
 They exit.
- 
-Scene 2
+
 Sound a sennet. Enter Richard in pomp; Buckingham,
 Catesby, Ratcliffe, Lovell, and others, including a Page.
  
@@ -12707,7 +12588,6 @@ O, let me think on Hastings and be gone
 To Brecknock, while my fearful head is on!
 He exits.
  
-Scene 3
 Enter Tyrrel.
  
 TYRREL
@@ -12790,7 +12670,6 @@ Go, muster men. My counsel is my shield.
 We must be brief when traitors brave the field.
 They exit.
  
-Scene 4
 Enter old Queen Margaret.
  
 QUEEN MARGARET
@@ -13554,7 +13433,6 @@ Someone take order Buckingham be brought
 To Salisbury. The rest march on with me.
 Flourish. They exit.
  
-Scene 5
 Enter Stanley, Earl of Derby, and Sir Christopher.
  
 STANLEY
@@ -13584,14 +13462,7 @@ My letter will resolve him of my mind.
 Farewell.
 They exit.
  
- 
- 
 
- 
- 
-ACT 5
- 
-Scene 1
 Enter Buckingham, with Sheriff and Halberds, led to
 execution.
  
@@ -13630,8 +13501,7 @@ Remember Margaret was a prophetess.”—
 Come, lead me, officers, to the block of shame.
 Wrong hath but wrong, and blame the due of blame.
 Buckingham exits with Officers.
- 
-Scene 2
+
 Enter Richmond, Oxford, Blunt, Herbert, and others,
 with Drum and Colors.
  
@@ -13667,7 +13537,6 @@ True hope is swift, and flies with swallow’s wings;
 Kings it makes gods, and meaner creatures kings.
 All exit.
  
-Scene 3
 Enter King Richard, in arms, with Norfolk, Ratcliffe, and
 the Earl of Surrey, with Soldiers.
  
@@ -14193,7 +14062,6 @@ Inspire us with the spleen of fiery dragons.
 Upon them! Victory sits on our helms.
 They exit.
  
-Scene 4
 Alarum. Excursions. Enter Norfolk, with Soldiers, and
 Catesby.
  
@@ -14220,7 +14088,6 @@ Five have I slain today instead of him.
 A horse, a horse, my kingdom for a horse!
 They exit.
  
-Scene 5
 Alarum. Enter Richard and Richmond. They fight.
 Richard is slain. Then retreat being sounded, Richmond
 exits, and Richard’s body is removed. Flourish. Enter
@@ -14278,12 +14145,6 @@ That she may long live here, God say amen.
 They exit.
  
 
-Othello
- 
- 
-ACT 1
- 
-Scene 1
 Enter Roderigo and Iago.
  
 RODERIGO
@@ -14527,7 +14388,6 @@ And raise some special officers of night.—
 On, good Roderigo. I will deserve your pains.
 They exit.
  
-Scene 2
 Enter Othello, Iago, Attendants, with Torches.
  
 IAGO
@@ -14680,7 +14540,6 @@ For if such actions may have passage free,
 Bondslaves and pagans shall our statesmen be.
 They exit.
  
-Scene 3
 Enter Duke, Senators, and Officers.
  
 DUKE, reading a paper
@@ -15187,13 +15046,6 @@ Must bring this monstrous birth to the world’s light.
 He exits.
  
  
- 
-
- 
- 
-ACT 2
- 
-Scene 1
 Enter Montano and two Gentlemen.
  
 MONTANO
@@ -15602,7 +15454,6 @@ Even to madness. ’Tis here, but yet confused.
 Knavery’s plain face is never seen till used.
 He exits.
  
-Scene 2
 Enter Othello’s Herald with a proclamation.
  
 HERALD  It is Othello’s pleasure, our noble and valiant
@@ -15619,7 +15470,6 @@ the bell have told eleven. Heaven bless the isle of
 Cyprus and our noble general, Othello!
 He exits.
  
-Scene 3
 Enter Othello, Desdemona, Cassio, and Attendants.
  
 OTHELLO
@@ -16093,14 +15943,7 @@ Soliciting his wife. Ay, that’s the way.
 Dull not device by coldness and delay.
 He exits.
  
- 
- 
 
- 
- 
-ACT 3
- 
-Scene 1
 Enter Cassio with Musicians.
  
 CASSIO
@@ -16187,7 +16030,6 @@ To speak your bosom freely.
 CASSIO  I am much bound to you.
 They exit.
  
-Scene 2
 Enter Othello, Iago, and Gentlemen.
  
 OTHELLO
@@ -16203,7 +16045,6 @@ GENTLEMEN
 We wait upon your Lordship.
 They exit.
  
-Scene 3
 Enter Desdemona, Cassio, and Emilia.
  
 DESDEMONA
@@ -16852,7 +16693,6 @@ For the fair devil. Now art thou my lieutenant.
 IAGO  I am your own forever.
 They exit.
  
-Scene 4
 Enter Desdemona, Emilia, and Clown.
  
 DESDEMONA  Do you know, sirrah, where Lieutenant
@@ -17142,14 +16982,7 @@ BIANCA
 ’Tis very good. I must be circumstanced.
 They exit.
  
- 
- 
 
- 
- 
-ACT 4
- 
-Scene 1
 Enter Othello and Iago.
  
 IAGO
@@ -17545,7 +17378,6 @@ LODOVICO
 I am sorry that I am deceived in him.
 They exit.
  
-Scene 2
 Enter Othello and Emilia.
  
 OTHELLO  You have seen nothing then?
@@ -17888,7 +17720,6 @@ RODERIGO  I will hear further reason for this.
 IAGO  And you shall be satisfied.
 They exit.
  
-Scene 3
 Enter Othello, Lodovico, Desdemona, Emilia, and
 Attendants.
  
@@ -18032,13 +17863,6 @@ Not to pick bad from bad, but by bad mend.
 They exit.
  
  
- 
-
- 
- 
-ACT 5
- 
-Scene 1
 Enter Iago and Roderigo.
  
 IAGO
@@ -18271,7 +18095,6 @@ Will you go on afore? Aside. This is the night
 That either makes me or fordoes me quite.
 They exit in different directions.
  
-Scene 2
 Enter Othello with a light, and Desdemona in her bed.
  
 OTHELLO
@@ -18841,12 +18664,6 @@ This heavy act with heavy heart relate.
 They exit.
  
 
-Macbeth
- 
- 
-ACT 1
- 
-Scene 1
 Thunder and Lightning. Enter three Witches.
  
 FIRST WITCH
@@ -18870,7 +18687,6 @@ Fair is foul, and foul is fair;
 Hover through the fog and filthy air.
 They exit.
  
-Scene 2
 Alarum within. Enter King Duncan, Malcolm,
 Donalbain, Lennox, with Attendants, meeting a bleeding
 Captain.
@@ -18968,7 +18784,6 @@ DUNCAN
 What he hath lost, noble Macbeth hath won.
 They exit.
  
-Scene 3
 Thunder. Enter the three Witches.
  
 FIRST WITCH  Where hast thou been, sister?
@@ -19188,7 +19003,6 @@ BANQUO  Very gladly.
 MACBETH  Till then, enough.—Come, friends.
 They exit.
  
-Scene 4
 Flourish. Enter King Duncan, Lennox, Malcolm,
 Donalbain, and Attendants.
  
@@ -19268,7 +19082,6 @@ Whose care is gone before to bid us welcome.
 It is a peerless kinsman.
 Flourish. They exit.
  
-Scene 5
 Enter Macbeth’s Wife, alone, with a letter.
  
 LADY MACBETH, reading the letter  They met me in the
@@ -19370,7 +19183,6 @@ To alter favor ever is to fear.
 Leave all the rest to me.
 They exit.
  
-Scene 6
 Hautboys and Torches. Enter King Duncan, Malcolm,
 Donalbain, Banquo, Lennox, Macduff, Ross, Angus, and
 Attendants.
@@ -19422,7 +19234,6 @@ And shall continue our graces towards him.
 By your leave, hostess.
 They exit.
  
-Scene 7
 Hautboys. Torches. Enter a Sewer and divers Servants
 with dishes and service over the stage. Then enter
 Macbeth.
@@ -19533,13 +19344,6 @@ know.
 They exit.
  
  
- 
-
- 
- 
-ACT 2
- 
-Scene 1
 Enter Banquo, and Fleance with a torch before him.
  
 BANQUO  How goes the night, boy?
@@ -19635,7 +19439,6 @@ Hear it not, Duncan, for it is a knell
 That summons thee to heaven or to hell.
 He exits.
  
-Scene 2
 Enter Lady Macbeth.
  
 LADY MACBETH
@@ -19758,7 +19561,6 @@ Wake Duncan with thy knocking. I would thou
 couldst.
 They exit.
  
-Scene 3
 Knocking within. Enter a Porter.
  
 PORTER  Here’s a knocking indeed! If a man were
@@ -19983,7 +19785,6 @@ But shift away. There’s warrant in that theft
 Which steals itself when there’s no mercy left.
 They exit.
  
-Scene 4
 Enter Ross with an Old Man.
  
 OLD MAN
@@ -20057,13 +19858,6 @@ That would make good of bad and friends of foes.
 All exit.
  
  
- 
-
- 
- 
-ACT 3
- 
-Scene 1
 Enter Banquo.
  
 BANQUO
@@ -20258,7 +20052,6 @@ It is concluded. Banquo, thy soul’s flight,
 If it find heaven, must find it out tonight.
 He exits.
  
-Scene 2
 Enter Macbeth’s Lady and a Servant.
  
 LADY MACBETH  Is Banquo gone from court?
@@ -20337,7 +20130,6 @@ Things bad begun make strong themselves by ill.
 So prithee go with me.
 They exit.
  
-Scene 3
 Enter three Murderers.
  
 FIRST MURDERER
@@ -20386,7 +20178,6 @@ FIRST MURDERER
 Well, let’s away and say how much is done.
 They exit.
  
-Scene 4
 Banquet prepared. Enter Macbeth, Lady Macbeth,
 Ross, Lennox, Lords, and Attendants.
  
@@ -20614,7 +20405,6 @@ Is the initiate fear that wants hard use.
 We are yet but young in deed.
 They exit.
  
-Scene 5
 Thunder. Enter the three Witches, meeting Hecate.
  
 FIRST WITCH
@@ -20661,7 +20451,6 @@ FIRST WITCH
 Come, let’s make haste. She’ll soon be back again.
 They exit.
  
-Scene 6
 Enter Lennox and another Lord.
  
 LENNOX
@@ -20725,13 +20514,6 @@ LORD  I’ll send my prayers with him.
 They exit.
  
  
- 
-
- 
- 
-ACT 4
- 
-Scene 1
 Thunder. Enter the three Witches.
  
 FIRST WITCH
@@ -20977,7 +20759,6 @@ But no more sights!—Where are these gentlemen?
 Come bring me where they are.
 They exit.
  
-Scene 2
 Enter Macduff’s Wife, her Son, and Ross.
  
 LADY MACDUFF
@@ -21103,7 +20884,6 @@ Run away, I pray you.
 Lady Macduff exits, crying “Murder!” followed by the
 Murderers bearing the Son’s body.
  
-Scene 3
 Enter Malcolm and Macduff.
  
 MALCOLM
@@ -21424,13 +21204,6 @@ The night is long that never finds the day.
 They exit.
  
  
- 
-
- 
- 
-ACT 5
- 
-Scene 1
 Enter a Doctor of Physic and a Waiting-Gentlewoman.
  
 DOCTOR  I have two nights watched with you but can
@@ -21524,7 +21297,6 @@ I think but dare not speak.
 GENTLEWOMAN  Good night, good doctor.
 They exit.
  
-Scene 2
 Drum and Colors. Enter Menteith, Caithness, Angus,
 Lennox, and Soldiers.
  
@@ -21571,7 +21343,6 @@ To dew the sovereign flower and drown the weeds.
 Make we our march towards Birnam.
 They exit marching.
  
-Scene 3
 Enter Macbeth, the Doctor, and Attendants.
  
 MACBETH
@@ -21669,7 +21440,6 @@ Were I from Dunsinane away and clear,
 Profit again should hardly draw me here.
 They exit.
  
-Scene 4
 Drum and Colors. Enter Malcolm, Siward, Macduff,
 Siward’s son, Menteith, Caithness, Angus, and Soldiers,
 marching.
@@ -21707,7 +21477,6 @@ But certain issue strokes must arbitrate;
 Towards which, advance the war.
 They exit marching.
  
-Scene 5
 Enter Macbeth, Seyton, and Soldiers, with Drum and
 Colors.
  
@@ -21785,7 +21554,6 @@ Ring the alarum bell!—Blow wind, come wrack,
 At least we’ll die with harness on our back.
 They exit.
  
-Scene 6
 Drum and Colors. Enter Malcolm, Siward, Macduff, and
 their army, with boughs.
  
@@ -21805,7 +21573,6 @@ Those clamorous harbingers of blood and death.
 They exit.
 Alarums continued.
  
-Scene 7
 Enter Macbeth.
  
 MACBETH
@@ -21864,7 +21631,6 @@ That strike beside us.
 SIWARD  Enter, sir, the castle.
 They exit. Alarum.
  
-Scene 8
 Enter Macbeth.
  
 MACBETH
@@ -21984,12 +21750,6 @@ So thanks to all at once and to each one,
 Whom we invite to see us crowned at Scone.
 Flourish. All exit.
  
-
-A Midsummer Night’s Dream
- 
-ACT 1
- 
-Scene 1
 Enter Theseus, Hippolyta, and Philostrate, with others.
  
 THESEUS
@@ -22308,7 +22068,6 @@ But herein mean I to enrich my pain,
 To have his sight thither and back again.
 She exits.
  
-Scene 2
 Enter Quince the carpenter, and Snug the joiner, and
 Bottom the weaver, and Flute the bellows-mender, and
 Snout the tinker, and Starveling the tailor.
@@ -22425,13 +22184,6 @@ BOTTOM  Enough. Hold or cut bowstrings.
 They exit.
  
  
- 
-
- 
- 
-ACT 2
- 
-Scene 1
 Enter a Fairy at one door and Robin Goodfellow at
 another.
  
@@ -22763,7 +22515,6 @@ ROBIN
 Fear not, my lord. Your servant shall do so.
 They exit.
  
-Scene 2
 Enter Titania, Queen of Fairies, with her train.
  
 TITANIA
@@ -22986,14 +22737,7 @@ No? Then I well perceive you are not nigh.
 Either death or you I’ll find immediately.
 She exits.
  
- 
- 
 
- 
- 
-ACT 3
- 
-Scene 1
 With Titania still asleep onstage, enter the Clowns,
 Bottom, Quince, Snout, Starveling, Snug, and Flute.
  
@@ -23244,7 +22988,6 @@ And when she weeps, weeps every little flower,
 Tie up my lover’s tongue. Bring him silently.
 They exit.
  
-Scene 2
 Enter Oberon, King of Fairies.
  
 OBERON
@@ -23893,13 +23636,6 @@ well.
 He exits.
  
  
- 
-
- 
- 
-ACT 4
- 
-Scene 1
 With the four lovers still asleep onstage, enter
 Titania, Queen of Fairies, and Bottom and Fairies,
 and Oberon, the King, behind them unseen by those
@@ -24189,7 +23925,6 @@ to make it the more gracious, I shall sing it at her
 death.
 He exits.
  
-Scene 2
 Enter Quince, Flute, Snout, and Starveling.
  
 QUINCE  Have you sent to Bottom’s house? Is he come
@@ -24246,13 +23981,6 @@ words. Away! Go, away!
 They exit.
  
  
- 
-
- 
- 
-ACT 5
- 
-Scene 1
 Enter Theseus, Hippolyta, and Philostrate, Lords, and
 Attendants.
  
@@ -24813,13 +24541,6 @@ ROBIN
        	And Robin shall restore amends.
 He exits.
  
-
-Hamlet
- 
- 
-ACT 1
- 
-Scene 1
 Enter Barnardo and Francisco, two sentinels.
  
 BARNARDO  Who’s there?
@@ -25061,7 +24782,6 @@ Let’s do ’t, I pray, and I this morning know
 Where we shall find him most convenient.
 They exit.
  
-Scene 2
 Flourish. Enter Claudius, King of Denmark, Gertrude the
 Queen, the Council, as Polonius, and his son Laertes,
 Hamlet, with others, among them Voltemand and
@@ -25403,7 +25123,6 @@ Though all the earth o’erwhelm them, to men’s
 eyes.
 He exits.
  
-Scene 3
 Enter Laertes and Ophelia, his sister.
  
 LAERTES
@@ -25574,7 +25293,6 @@ Look to ’t, I charge you. Come your ways.
 OPHELIA  I shall obey, my lord.
 They exit.
  
-Scene 4
 Enter Hamlet, Horatio, and Marcellus.
  
 HAMLET
@@ -25705,7 +25423,6 @@ Heaven will direct it.
 MARCELLUS  Nay, let’s follow him.
 They exit.
  
-Scene 5
 Enter Ghost and Hamlet.
  
 HAMLET
@@ -25954,14 +25671,6 @@ That ever I was born to set it right!
 Nay, come, let’s go together.
 They exit.
  
- 
- 
-
- 
- 
-ACT 2
- 
-Scene 1
 Enter old Polonius with his man Reynaldo.
  
 POLONIUS
@@ -26119,7 +25828,6 @@ More grief to hide than hate to utter love.
 Come.
 They exit.
  
-Scene 2
 Flourish. Enter King and Queen, Rosencrantz and
 Guildenstern and Attendants.
  
@@ -26818,13 +26526,6 @@ Wherein I’ll catch the conscience of the King.
 He exits.
  
  
- 
-
- 
- 
-ACT 3
- 
-Scene 1
 Enter King, Queen, Polonius, Ophelia, Rosencrantz,
 Guildenstern, and Lords.
  
@@ -27058,7 +26759,6 @@ KING  It shall be so.
 Madness in great ones must not unwatched go.
 They exit.
  
-Scene 2
 Enter Hamlet and three of the Players.
  
 HAMLET  Speak the speech, I pray you, as I pronounced
@@ -27552,7 +27252,6 @@ How in my words somever she be shent,
 To give them seals never, my soul, consent.
 He exits.
  
-Scene 3
 Enter King, Rosencrantz, and Guildenstern.
  
 KING
@@ -27678,7 +27377,6 @@ My words fly up, my thoughts remain below;
 Words without thoughts never to heaven go.
 He exits.
  
-Scene 4
 Enter Queen and Polonius.
  
 POLONIUS
@@ -27963,14 +27661,6 @@ Come, sir, to draw toward an end with you.—
 Good night, mother.
 They exit, Hamlet tugging in Polonius.
  
- 
- 
-
- 
- 
-ACT 4
- 
-Scene 1
 Enter King and Queen, with Rosencrantz and
 Guildenstern.
  
@@ -28031,7 +27721,6 @@ And hit the woundless air. O, come away!
 My soul is full of discord and dismay.
 They exit.
  
-Scene 2
 Enter Hamlet.
  
 HAMLET  Safely stowed.
@@ -28073,7 +27762,6 @@ HAMLET  Of nothing. Bring me to him. Hide fox, and
 all after!
 They exit.
  
-Scene 3
 Enter King and two or three.
  
 KING
@@ -28173,7 +27861,6 @@ And thou must cure me. Till I know ’tis done,
 Howe’er my haps, my joys will ne’er begin.
 He exits.
  
-Scene 4
 Enter Fortinbras with his army over the stage.
  
 FORTINBRAS
@@ -28261,7 +27948,6 @@ To hide the slain? O, from this time forth
 My thoughts be bloody or be nothing worth!
 He exits.
  
-Scene 5
 Enter Horatio, Queen, and a Gentleman.
  
 QUEEN  I will not speak with her.
@@ -28553,7 +28239,6 @@ And where th’ offense is, let the great ax fall.
 I pray you, go with me.
 They exit.
  
-Scene 6
 Enter Horatio and others.
  
 HORATIO  What are they that would speak with me?
@@ -28596,7 +28281,6 @@ And do ’t the speedier that you may direct me
 To him from whom you brought them.
 They exit.
  
-Scene 7
 Enter King and Laertes.
  
 KING
@@ -28845,14 +28529,6 @@ Now fear I this will give it start again.
 Therefore, let’s follow.
 They exit.
  
- 
- 
-
- 
- 
-ACT 5
- 
-Scene 1
 Enter Gravedigger and Another.
  
 GRAVEDIGGER  Is she to be buried in Christian burial,
@@ -29204,7 +28880,6 @@ An hour of quiet thereby shall we see.
 Till then in patience our proceeding be.
 They exit.
  
-Scene 2
 Enter Hamlet and Horatio.
  
 HAMLET
@@ -29746,12 +29421,6 @@ Go, bid the soldiers shoot.
 They exit, marching, after the which, a peal of
 ordnance are shot off.
  
-
-Julius Caesar
- 
-ACT 1
- 
-Scene 1
 Enter Flavius, Marullus, and certain Commoners,
 including a Carpenter and a Cobbler, over the stage.
  
@@ -29847,7 +29516,6 @@ Who else would soar above the view of men
 And keep us all in servile fearfulness.
 They exit in different directions.
  
-Scene 2
 Enter Caesar, Antony for the course, Calphurnia, Portia,
 Decius, Cicero, Brutus, Cassius, Casca, a Soothsayer;
 after them Marullus and Flavius and Commoners.
@@ -30244,7 +29912,6 @@ And after this, let Caesar seat him sure,
 For we will shake him, or worse days endure.
 He exits.
  
-Scene 3
 Thunder and lightning. Enter Casca and Cicero.
  
 CICERO
@@ -30459,14 +30126,6 @@ For it is after midnight, and ere day
 We will awake him and be sure of him.
 They exit.
  
- 
- 
-
- 
- 
-ACT 2
- 
-Scene 1
 Enter Brutus in his orchard.
  
 BRUTUS  What, Lucius, ho!—
@@ -30932,7 +30591,6 @@ Thunder.
 BRUTUS  Follow me then.
 They exit.
  
-Scene 2
 Thunder and lightning. Enter Julius Caesar in his
 nightgown.
  
@@ -31122,7 +30780,6 @@ That every like is not the same, O Caesar,
 The heart of Brutus earns to think upon.
 They exit.
  
-Scene 3
 Enter Artemidorus reading a paper.
  
 ARTEMIDORUS  Caesar, beware of Brutus, take heed of
@@ -31144,7 +30801,6 @@ If thou read this, O Caesar, thou mayest live;
 If not, the Fates with traitors do contrive.
 He exits.
  
-Scene 4
 Enter Portia and Lucius.
  
 PORTIA
@@ -31218,14 +30874,6 @@ Say I am merry. Come to me again
 And bring me word what he doth say to thee.
 They exit separately.
  
- 
- 
-
- 
- 
-ACT 3
- 
-Scene 1
 Flourish. Enter Caesar, Antony, Lepidus; Brutus, Cassius,
 Casca, Decius, Metellus, Trebonius, Cinna; Publius,
 Popilius, Artemidorus, the Soothsayer, and other
@@ -31639,7 +31287,6 @@ To young Octavius of the state of things.
 Lend me your hand.
 They exit with Caesar’s body.
  
-Scene 2
 Enter Brutus and Cassius with the Plebeians.
  
 PLEBEIANS
@@ -32000,7 +31647,6 @@ Belike they had some notice of the people
 How I had moved them. Bring me to Octavius.
 They exit.
  
-Scene 3
 Enter Cinna the poet and after him the Plebeians.
  
 CINNA
@@ -32046,14 +31692,6 @@ to Decius’ house, and some to Casca’s, some to
 Ligarius’. Away, go!
 All the Plebeians exit, carrying off Cinna.
  
- 
- 
-
- 
- 
-ACT 4
- 
-Scene 1
 Enter Antony, Octavius, and Lepidus.
  
 ANTONY
@@ -32123,7 +31761,6 @@ And some that smile have in their hearts, I fear,
 Millions of mischiefs.
 They exit.
  
-Scene 2
 Drum. Enter Brutus, Lucilius, Lucius, and the Army.
 Titinius and Pindarus meet them.
  
@@ -32201,8 +31838,7 @@ Lucius, do you the like, and let no man
 Come to our tent till we have done our conference.
 Let Lucilius and Titinius guard our door.
 All but Brutus and Cassius exit.
- 
-Scene 3
+
 CASSIUS
 That you have wronged me doth appear in this:
 You have condemned and noted Lucius Pella
@@ -32679,14 +32315,6 @@ And we will follow.
 BOTH  It shall be done, my lord.
 They exit.
  
- 
- 
-
- 
- 
-ACT 5
- 
-Scene 1
 Enter Octavius, Antony, and their army.
  
 OCTAVIUS
@@ -32869,8 +32497,7 @@ The end of this day’s business ere it come!
 But it sufficeth that the day will end,
 And then the end is known.—Come ho, away!
 They exit.
- 
-Scene 2
+
 Alarum. Enter Brutus and Messala.
  
 BRUTUS
@@ -32884,7 +32511,6 @@ And sudden push gives them the overthrow.
 Ride, ride, Messala! Let them all come down.
 They exit.
  
-Scene 3
 Alarums. Enter Cassius carrying a standard and
 Titinius.
  
@@ -33057,7 +32683,6 @@ Labeo and Flavius, set our battles on.
 We shall try fortune in a second fight.
 They exit.
  
-Scene 4
 Alarum. Enter Brutus, Messala, Cato, Lucilius, and
 Flavius.
  
@@ -33114,7 +32739,6 @@ And bring us word unto Octavius’ tent
 How everything is chanced.
 They exit in different directions.
  
-Scene 5
 Enter Brutus, Dardanus, Clitus, Strato, and Volumnius.
  
 BRUTUS
